@@ -1,0 +1,27 @@
+* {
+  behavior: smooth scroll;
+}
+.navbar-nav {
+  display: flex;
+  margin-left: auto;
+}
+.carousel-inner {
+  margin-top: 1rem;
+  height: 90vh;
+}
+.bg-crimson {
+  background-color: crimson;
+}
+/*.container {
+  margin-top: 1.5rem;
+}*/
+.container h1 {
+  text-align: center;
+}
+span {
+  color: crimson;
+}
+.showcase {
+  display: flex;
+  margin-bottom: 1.5rem;
+}
