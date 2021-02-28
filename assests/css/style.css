@@ -37,3 +37,11 @@ padding: .5rem;}
 p{display: grid;
 text-align:justify;
 text-align-last:center;}
+.footer-container{background-color: #333;
+color: white;
+text-align: center;}
+.icon a{display:flex;
+width: 5vw;
+height: 5vh;
+margin: auto;
+padding: 5px}
