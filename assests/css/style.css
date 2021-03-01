@@ -25,7 +25,7 @@ span {
   display: flex;
   margin-bottom: 1.5rem;*/
 }
-.project h1{font-size: 5rem;
+.row h1{font-size: 5rem;
     font-weight: 500;
 margin: 1.5rem;
 text-transform: uppercase;}
@@ -41,6 +41,9 @@ text-align-last:center;}
 color: white;
 text-align: center;}
 .icon a{display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center center;
 width: 5vw;
 height: 5vh;
 margin: auto;
